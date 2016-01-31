@@ -13,4 +13,5 @@ Quick and dirty parser only for JSON response types.
 
 - Pull the repo
 - Update dependecies with composer
+- Rename .env.example to .env inside of your IDE
 - You should be all set
